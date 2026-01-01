@@ -14,7 +14,6 @@
 -449- Dynamic Aspect Ratio Tweaks (fixes for widescreen) - bellyillish
 -402- Radial Quickslots - NLTP_ASHES
 -401- Overheat Gunsmoke - party_50
--3DSSpatch
 -398- Parallax Reflex Sights - party_50
 -391- Hideout Furniture Expansion Ammo Box Patch - pesta
 -387- MK18 Mjlonir Reanimation - NickolasNikova
